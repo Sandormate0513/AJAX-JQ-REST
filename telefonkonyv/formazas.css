@@ -26,3 +26,11 @@ section p {
     padding-right:10px;
     
 }
+
+form{
+    padding: 10px;
+}
+
+.elrejt{
+    display: none;
+}
